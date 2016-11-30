@@ -1,6 +1,7 @@
 body {
 	background-image: url("../image/large.jpg");
-	background-size: cover; }
+	background-size: cover; 
+	background-attachment: fixed;}
 
 .container-fluid {
 	position: relative;
