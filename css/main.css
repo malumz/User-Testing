@@ -7,7 +7,6 @@ header {
 	background-image: url("../image/large.jpg");
 	background-size: cover;
 	background-attachment: fixed;
-	min-height: 400px;
 	width: 100%;
 	margin: 0 auto;
 	color: white; }
@@ -94,10 +93,10 @@ header .frase h2 {
 .ejemplo h3 {
 	color:  #91c2ff;
 	font-size: 33px;
-	margin-bottom: 5%; }
+	margin-bottom: 4%; }
 
 .ejemplo h3 img {
-	height: 65px;  }
+	height: 60px;  }
 
 .ejemplo p {
 	color: #838383; }
@@ -115,11 +114,15 @@ header .frase h2 {
 	height: 470px;
 	width: 100%;
 	margin-top: 10%;
-	margin-bottom: 5%;
+	margin-bottom: 3%;
 	background-color: rgba(76, 83, 89, 0.4);
 }
+.ejemplo .columna6 {
+	margin-top: 2%;
+}
+
 .ejemplo .text {
-	margin-top: 12%;
+	margin-top: 18%;
 	margin-left: 5%;
 	width: 95%; }
 
@@ -148,7 +151,7 @@ header .frase h2 {
 .razon h3 {
 	color:  #91c2ff;
 	font-size: 33px;
-	margin-bottom: 5% }
+	margin-bottom: 3% }
 
 .razon h3 img {
 	height: 60px; }
@@ -156,6 +159,10 @@ header .frase h2 {
 .razon .img-2 {
 	height: 400px;
 	width: 100% }
+
+.razones .top {
+	margin-top: 6%;
+}
 
 .razon p {
 	margin-bottom: 4%;
